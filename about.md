@@ -1,14 +1,13 @@
 ---
 layout: page
 title: About
+published: true
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jonathanjuy@gmail.com](mailto:jonathanjuy@gmail.com)
+
+### Credit
+
+This site was made using barryclark's super easy static site generator [jekyll-now](https://github.com/barryclark/jekyll-now).
