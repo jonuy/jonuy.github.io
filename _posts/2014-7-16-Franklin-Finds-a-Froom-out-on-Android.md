@@ -5,7 +5,7 @@ title: Franklin Finds a Froom out on Android!
 
 ![ffaf_title]({{ site.baseurl }}/images/franklin-finds-a-froom/ffaf-title-screen.png)
 
-Get Franklin Finds a Froom [HERE](@todo)!
+Get Franklin Finds a Froom [HERE](https://play.google.com/store/apps/details?id=com.jonuy.franklinfroom)!
 
 Franklin Finds a Froom is a platform arcade game for your Android devices. You'll play as Franklin, an octogenarian searching for adventure in the sewers under his house. And you'll encounter Frooms... waves and waves of Frooms that you'll have to stomp, bump, and boot your way through. There are currently 25 levels with possibly more to come, but I haven't even yet beaten the game from start to finish myself without cheating. So I'm probably good on that front for a little while.
 

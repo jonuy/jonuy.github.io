@@ -4,4 +4,8 @@ title: Games
 published: true
 ---
 
-Coming soon...
+## Franklin Finds a Froom
+
+[![ffaf_title]({{ site.baseurl }}/images/franklin-finds-a-froom/ffaf-title-screen.png)]({{ site.baseurl }}/Franklin-Finds-a-Froom-out-on-Android)
+
+[![Get it on Google play](http://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.jonuy.franklinfroom)
