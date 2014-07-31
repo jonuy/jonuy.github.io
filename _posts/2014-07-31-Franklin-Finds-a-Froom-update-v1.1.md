@@ -14,7 +14,7 @@ Some other smaller changes to note:
 
 - The volume of the background music has been decreased a touch. It may have been a tad loud.  
 
-- This is barely noticeable, but the Android launcher icons have also been updated. I used this tool ([http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html]) instead of just chopping the head off of one of Franklin's sprites.  
+- This is barely noticeable, but the Android launcher icons have also been updated. I used this [Launcher Icon Generator](http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) tool instead of just chopping the head off of one of Franklin's sprites.  
 
 - There's a small UI pause button added to the top of the screen. This was really just done in preparation for a potential port over to iOS. But unless someone wants to give me $99 for the dev fee, it's probably not gonna happen.  
 ![Pause button]({{ site.baseurl }}/images/franklin-finds-a-froom/v1.1-pause-button.png)  
