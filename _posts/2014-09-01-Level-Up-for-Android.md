@@ -17,10 +17,10 @@ This started out as an app for my own use. Being the dad of a newborn, I found m
 
 #### A Thing That Went Right
 **Focused and Limited Scope:**
-I had a very clear idea of what I wanted to be able to accomplish with this app. Sticking strictly to that and not over-engineering stuff, like creating an event queue and backend web service, allowed me to finish this in just under a month. (To be fair - I did start an event queue + backend web service. It may be a thing I'll get back to later.)
+I had a very clear idea of what I wanted to be able to accomplish with this app. Sticking strictly to that and not over-engineering stuff, like creating an event queue and backend web service, allowed me to finish this in just under a month. (To be fair - I did start working on an event queue + backend web service. It may be a thing I'll get back to later.)
 
 #### A Thing That Went Wrong
-The phone this app was developed on. I have no idea when the screen cracked.
+My phone that this app got developed on. I have no idea when the screen cracked.
 
 <img src="/images/level-up/broken-phone.jpg" alt="Broken Phone" style="width:33%">
 
