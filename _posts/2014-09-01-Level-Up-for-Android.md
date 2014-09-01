@@ -5,7 +5,7 @@ title: Level Up! for Android
 
 [![Level Up]({{ site.baseurl }}/images/level-up/level-up-feature-graphic.png)](https://play.google.com/store/apps/details?id=com.jonuy.levelup)
 
-Another month, another app. Level Up! is a simple app for personal data tracking, motivation, and improvement. It borrows from the basic concept of leveling up from RPGs, except for real life.
+Another month, another app. Level Up! is a simple app for personal data tracking, motivation, and improvement. It borrows from the basic concept of leveling up from RPGs and lets you apply it to real life.
 
 The UI and available features are intentionally basic. The possiblities for what you track and how you decide to motivate yourself are up to your own imagination. And frankly, I'm kinda excited to see how people might try to use it.
 
