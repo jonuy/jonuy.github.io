@@ -15,3 +15,8 @@ published: true
 [![Level Up!]({{ site.baseurl }}/images/level-up/level-up-feature-graphic.png)]({{ site.baseurl }}/Level-Up-for-Android)
 
 [![Get it on Google play](http://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.jonuy.levelup)
+
+## Notes.md
+[![Notes.md]({{ site.baseurl }}/images/notes-md/notes-md-feature-graphic.png)]({{ site.baseurl }}/Notes-md-An-Android-Markdown-Editor)
+
+[![Get it on Google play](http://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.jonuy.notesmd)
