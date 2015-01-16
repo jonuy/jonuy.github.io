@@ -16,9 +16,11 @@ Other than that, only aggregated, anonymized data is periodically transmitted to
 
 No. What? Why? This is an app for taking notes.
 
+Ok, but for real, nothing precise. And even then, it's anonymized. Basically whatever Google Analytics gives by default.
+
 ### Changes
 
-This Privacy Policy may be updated from time to time for any reason. Though highly doubtful I'll ever edit this document again, any new Privacy Policy will be posted here. If reading things like this is your kind of thing, you are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This Privacy Policy may be updated from time to time for any reason. Though it's highly doubtful I'll ever edit this document again, any new Privacy Policy will be posted here. If reading things like this is your cup o' tea, you are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 ### Your Consent
 
